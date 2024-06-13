@@ -1,0 +1,9 @@
+Flask==2.0.3
+Werkzeug==2.0.3
+flask-cors==3.0.10
+boto3==1.24.12
+numpy==1.22.0
+opencv-python-headless==4.5.5.62
+openvino
+Pillow==9.0.1
+pandas
