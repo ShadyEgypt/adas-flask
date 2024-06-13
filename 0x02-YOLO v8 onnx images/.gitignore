@@ -2,3 +2,6 @@ __pycache__
 *.jpg
 *.mp4
 *.mov
+*.png
+README.md
+.env
